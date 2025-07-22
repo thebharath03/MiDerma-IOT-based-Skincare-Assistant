@@ -1,0 +1,812 @@
+{
+  "olive_low_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "tan_brown_low_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "medium_low_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "light_low_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "deep_brown_black_low_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "fair_low_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "medium_low_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "light_low_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "olive_low_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "deep_brown_black_low_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "olive_low_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "fair_low_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "medium_low_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "tan_brown_low_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "tan_brown_low_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "deep_brown_black_low_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "fair_low_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "light_low_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "light_medium_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "tan_brown_medium_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "fair_medium_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "olive_medium_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "fair_high_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "medium_medium_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "medium_high_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "light_medium_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "fair_medium_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "deep_brown_black_medium_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "tan_brown_medium_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "medium_medium_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "olive_medium_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "deep_brown_black_medium_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "tan_brown_medium_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "medium_medium_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "olive_medium_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "tan_brown_high_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "olive_high_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "light_medium_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "fair_medium_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "deep_brown_black_high_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "olive_high_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "tan_brown_high_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "light_high_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "medium_high_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "fair_high_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "tan_brown_high_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "light_high_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "olive_high_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "deep_brown_black_high_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "medium_high_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "deep_brown_black_high_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "fair_high_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "light_high_high": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "deep_brown_black_medium_low": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  }
+}
